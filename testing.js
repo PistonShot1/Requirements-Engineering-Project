@@ -8,3 +8,4 @@ document.getElementById("button3").onclick = function (){
     
 }
 document.getElementById("button4").onclick = () => location.replace('https://docs.google.com/document/d/1AGg9v7yhwdvaQD7qLO2RG4ypYtjVtRnUs_FYmqlI014/edit') ;
+document.getElementById("button5").onclick = () => location.replace('https://docs.google.com/document/d/1qwVA_2stfc-B263F8E83hsnW3XkQQrwOD9klKmpnixg/edit?usp=sharing') ;
